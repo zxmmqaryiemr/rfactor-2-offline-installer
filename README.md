@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+rFactor 2 is a realistic, easily extendable racing simulation that offers race customization, great graphics, outstanding multiplayer and the height of racing realism. It features mixed class road racing with ultra realistic dynamics, an immersive sound environment and stunning graphics.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,16 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i5-4460 or AMD FX-8120 / Rec: Intel Core i5-9600 or AMD Ryzen 5 3600X | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 16 GB RAM / Rec: 32 GB RAM | 16 GB RAM |
+| **Graphics** | Min: nVidia GeForce GTX 950 or AMD Radeon RX 550 / Rec: GeForce GTX 1070 8 GB, Radeon RX 580 8GB | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 40 GB available space / Rec: 60 GB available space | 40 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7, 8, 8.1, 10 or 11 with latest Service Packs | Windows 7, 8, 8.1, 10 or 11 with latest Service Packs |
+| **Sound Card** | DirectX Compatible | DirectX Compatible |
+| **VR Support** | Min: SteamVR. Keyboard or gamepad required / Rec: To run in VR or triple screens higher specs than above … | SteamVR. Keyboard or gamepad required |
+| **Additional Notes** | Min: To run on minimal settings at 1080p / Rec: To run on default settings at 1080p | To run on minimal settings at 1080p |
 
 ---
 
